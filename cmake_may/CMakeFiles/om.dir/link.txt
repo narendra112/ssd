@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/om.dir/div/div.c.o CMakeFiles/om.dir/main/main.c.o CMakeFiles/om.dir/mul/mul.c.o CMakeFiles/om.dir/sub/sub.c.o  -o om 

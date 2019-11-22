@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/narendra/Desktop/cpractice/cmake_may/div/div.c
+stdio.h
+-
+
+/home/narendra/Desktop/cpractice/cmake_may/main/main.c
+stdio.h
+-
+header.h
+/home/narendra/Desktop/cpractice/cmake_may/main/header.h
+
+/home/narendra/Desktop/cpractice/cmake_may/mul/mul.c
+stdio.h
+-
+
+/home/narendra/Desktop/cpractice/cmake_may/sub/sub.c
+stdio.h
+-
+
+header/header.h
+

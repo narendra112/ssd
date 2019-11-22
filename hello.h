@@ -1,0 +1,1 @@
+void myprintfhellomake(void);

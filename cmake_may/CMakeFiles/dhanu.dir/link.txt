@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/dhanu.dir/div/div.c.o CMakeFiles/dhanu.dir/div/sub.c.o CMakeFiles/dhanu.dir/main/main.c.o CMakeFiles/dhanu.dir/main/mul.c.o  -o dhanu 

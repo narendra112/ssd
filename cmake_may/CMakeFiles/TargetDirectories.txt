@@ -1,0 +1,3 @@
+/home/narendra/Desktop/cpractice/cmake_may/CMakeFiles/rebuild_cache.dir
+/home/narendra/Desktop/cpractice/cmake_may/CMakeFiles/dhanu.dir
+/home/narendra/Desktop/cpractice/cmake_may/CMakeFiles/edit_cache.dir
